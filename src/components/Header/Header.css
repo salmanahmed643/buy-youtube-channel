@@ -1,0 +1,30 @@
+.main_menu {
+    background-color: #2F2C2C;
+    text-align: center;
+    padding: 20px;
+}
+.main_menu a {
+    text-decoration: none;
+    padding:20px;
+    color: #fff;
+    font-weight: 500;
+    transition: .3s ease all;
+}
+.main_menu a:hover {
+    background-color: #474343;
+    transform: skew(2);
+}
+
+.title {
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+    background-color: #B3382C;
+    border-radius: 0 0 5px 5px;
+}
+.youtube_channels {
+    border-bottom: 3px solid #ddd;
+    display: inline-block;
+    margin-bottom: 15px;
+    padding: 10px;
+}
